@@ -20,7 +20,7 @@
 
   
 ## 📫 Contact
-[Email](jamesorozcoh@gmail.com)
+jamesorozcoh@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/james-orozco-922712291/)
 
