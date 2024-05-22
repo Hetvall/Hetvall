@@ -25,4 +25,3 @@ jamesorozcoh@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/james-orozco-922712291/)
 
-- ⚡ Fun fact: ...
