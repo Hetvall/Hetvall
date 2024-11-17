@@ -5,7 +5,7 @@
 - Web development enthusiast
 - Always giving my 100% to learn, get better & growth professionally and personally
 - Possitive attituded!
-- I’m currently learning React.JS and its libraries by making personal projects in order to get knowledge and experience.
+- I’m currently learning Angular and its libraries by making personal projects in order to get knowledge and experience.
 - I’m looking to collaborate on any proyect
 
 ## Languages and tools
